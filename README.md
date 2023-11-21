@@ -1,7 +1,7 @@
 # fast-attacks-on-NR-metrics
 
 ## Supplementary material
-View [Supplementary material](https://drive.google.com/file/d/1ZE0_kjsqnxBQedR_iD-iMK60yyFgkzQk/view?usp=sharing)
+View [Supplementary material](https://drive.google.com/file/d/1yS-6XegmHf5Oh0yo0pcpprprN5onRZn3/view?usp=sharing)
 
 ## Code
 This repository contains implementations of four fast adversarial attacks on no-reference image- and video-quality metrics.
