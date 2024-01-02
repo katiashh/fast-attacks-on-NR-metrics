@@ -26,4 +26,4 @@ This repository contains implementations of four fast adversarial attacks on no-
 
 
 ## Supplementary material
-View [Supplementary material](https://drive.google.com/file/d/1yS-6XegmHf5Oh0yo0pcpprprN5onRZn3/view?usp=sharing)
+View [Supplementary material](https://drive.google.com/file/d/1RbGR5LYS3yba_1GhuuU8lSghZZ2YRyNt/view?usp=sharing)
