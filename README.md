@@ -1,8 +1,5 @@
 # fast-attacks-on-NR-metrics
 
-## Supplementary material
-View [Supplementary material](https://drive.google.com/file/d/1yS-6XegmHf5Oh0yo0pcpprprN5onRZn3/view?usp=sharing)
-
 ## Code
 This repository contains implementations of four fast adversarial attacks on no-reference image- and video-quality metrics.
 
@@ -26,3 +23,7 @@ This repository contains implementations of four fast adversarial attacks on no-
 ![](./inf_ims/vis_all_uaps.png)
 
 *Visualizations of UAPs generated using different methods when attacking [PaQ-2-PiQ](https://github.com/baidut/paq2piq), [Linearity](https://github.com/lidq92/LinearityIQA), [VSFA](https://github.com/lidq92/VSFA), [MDTVSFA](https://github.com/lidq92/MDTVSFA), [KonCept512](https://github.com/ZhengyuZhao/koniq-PyTorch), [Nima](https://github.com/truskovskiyk/nima.pytorch/tree/v1), and [SPAQ](https://github.com/h4nwei/SPAQ).*
+
+
+## Supplementary material
+View [Supplementary material](https://drive.google.com/file/d/1yS-6XegmHf5Oh0yo0pcpprprN5onRZn3/view?usp=sharing)
